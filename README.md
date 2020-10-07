@@ -3,7 +3,7 @@
 
 1.Writing and formating in GitHub [GitHub Docs.](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-2.Internet Cable channel map under water [TeleGeography.](https://www.submarinecablemap.com/)
+2.Tutorials on VIM editor [VIM tutorial](https://www.openvim.com/).
 
 3.Check old version of websites [WAYBACKMACHINE](https://web.archive.org/)
 
@@ -29,10 +29,10 @@ xdg-open [FileNameOnly]
 
 13.Visualising algorithms in 3D [VisuAlgo](https://visualgo.net/en).
 
-14. Tutorials on VIM editor [VIM tutorial](https://www.openvim.com/).
+14. Internet Cable channel map under water [TeleGeography.](https://www.submarinecablemap.com/) 
 
 15.Python resource [ThinkPythonBook](https://greenteapress.com/wp/think-python/)
 
-16.Big-O cheat seat [Big-)](https://www.bigocheatsheet.com/)
+16.Big-O cheat seat [Big-0](https://www.bigocheatsheet.com/)
 
 17.Problem Practice [CSES](https://cses.fi/problemset/list/)
