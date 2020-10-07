@@ -1,5 +1,5 @@
 # Some-Useful-and-epic-websites:)
-**_Hey guys! I made a small list of some websites. I think you will find it useful:)_**
+**_Hey guys! I have listed some websites here. I think you will find it useful:)_**
 
 1.Writing and formating in GitHub [GitHub Docs.](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
 
