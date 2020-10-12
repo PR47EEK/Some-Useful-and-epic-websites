@@ -36,3 +36,6 @@ xdg-open [FileNameOnly]
 16.Big-O cheat seat [Big-0](https://www.bigocheatsheet.com/)
 
 17.Problem Practice [CSES](https://cses.fi/problemset/list/)
+
+18.Flash OS images to SD cards & USB drives, safely and easily.[MakeBootable](https://www.balena.io/etcher/)
+
