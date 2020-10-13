@@ -39,3 +39,40 @@ xdg-open [FileNameOnly]
 
 18.Flash OS images to SD cards & USB drives, safely and easily.[MakeBootable](https://www.balena.io/etcher/)
 
+# For Free HTML/CSS websites templates:
+
+1. [Bootstrapmade](https://bootstrapmade.com/)
+
+2. [html5up](https://html5up.net/)
+
+3. [Templatemo](https://templatemo.com/)
+
+4. [Templated](https://templated.co/)
+
+5. [Free HTML%](https://freehtml5.co/)
+
+6. [Style shout](https://www.styleshout.com/)
+
+7. [Cruip](https://cruip.com/)
+
+8. [Start Bootstrap](https://startbootstrap.com/)
+
+9. [Zero Theme](https://www.zerotheme.com/)
+
+10. [HTML5xCSS3](https://www.html5xcss3.com/)
+
+11. [Colorlib](https://colorlib.com/)
+
+12. [HubSpot](https://www.hubspot.com/)
+
+13. [One page Love](https://onepagelove.com/)
+
+14. [Themes for App](https://themesfor.app/)
+
+15. [Tooplate](https://www.tooplate.com/)
+
+16. [UiDeck](https://uideck.com/)
+
+17. [W3layouts](https://w3layouts.com/)
+
+18.[Boot ship](https://bootsnipp.com/)
