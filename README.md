@@ -1,6 +1,6 @@
 # Some-Useful-and-epic-websites:)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&label=Visitors&style=flat-square&color=grey)
+![](https://komarev.com/ghpvc/?username=pr47eek/Some-Useful-and-epic-websites&label=Visitors&style=flat-square&color=grey)
 
 **_Hey guys! I have listed some websites here. I think you will find it useful:)_**
 
@@ -43,7 +43,7 @@ xdg-open [FileNameOnly]
 18.Flash OS images to SD cards & USB drives, safely and easily.[MakeBootable](https://www.balena.io/etcher/)
 
 # For Free HTML/CSS websites templates:
-
+/
 1. [Bootstrapmade](https://bootstrapmade.com/)
 
 2. [html5up](https://html5up.net/)
