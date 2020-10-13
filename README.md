@@ -1,7 +1,5 @@
 # Some-Useful-and-epic-websites:)
 
-![](https://komarev.com/ghpvc/?username=pr47eek/Some-Useful-and-epic-websites&label=Visitors&style=flat-square&color=grey)
-
 **_Hey guys! I have listed some websites here. I think you will find it useful:)_**
 
 1.Writing and formating in GitHub [GitHub Docs.](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
