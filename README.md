@@ -41,7 +41,7 @@ xdg-open [FileNameOnly]
 18.Flash OS images to SD cards & USB drives, safely and easily.[MakeBootable](https://www.balena.io/etcher/)
 
 # For Free HTML/CSS websites templates:
-/
+
 1. [Bootstrapmade](https://bootstrapmade.com/)
 
 2. [html5up](https://html5up.net/)
@@ -50,7 +50,7 @@ xdg-open [FileNameOnly]
 
 4. [Templated](https://templated.co/)
 
-5. [Free HTML%](https://freehtml5.co/)
+5. [Free HTML5](https://freehtml5.co/)
 
 6. [Style shout](https://www.styleshout.com/)
 
@@ -76,4 +76,29 @@ xdg-open [FileNameOnly]
 
 17. [W3layouts](https://w3layouts.com/)
 
-18.[Boot ship](https://bootsnipp.com/)
+18. [Boot ship](https://bootsnipp.com/)
+
+# Free resume builder tools :
+
+1. [Resume genius](https://www.resumegenius.com/)
+
+2. [Cake resume](https://www.cakeresume.com/)
+
+3. [My perfect resume](https://www.myperfectresume.com/)
+
+4. [Indeed](https://www.indeed.com/create-resume)
+
+5. [Zety](https://zety.com/)
+
+6. [resume.com](https://www.resume.com/)
+
+7. [Novo Resume](https://novoresume.com/)
+
+8. [Resume Now](https://www.resume-now.com/)
+
+9. [Canva](https://www.canva.com/)
+
+10. [Hloom](https://www.hloom.com/)
+
+11. [Got resume builder](https://www.gotresumebuilder.com/)
+
