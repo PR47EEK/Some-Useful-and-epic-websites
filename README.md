@@ -40,6 +40,8 @@ xdg-open [FileNameOnly]
 
 18.Flash OS images to SD cards & USB drives, safely and easily.[MakeBootable](https://www.balena.io/etcher/)
 
+19.Http status code :-)[Http Status Code](https://httpstatusdogs.com/)
+
 # For Free HTML/CSS websites templates:
 
 1. [Bootstrapmade](https://bootstrapmade.com/)
