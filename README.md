@@ -42,6 +42,8 @@ xdg-open [FileNameOnly]
 
 19.Http status code :-)[Http Status Code](https://httpstatusdogs.com/)
 
+20.Learn git command line deeply [Learn Git](https://learngitbranching.js.org/)
+
 # For Free HTML/CSS websites templates:
 
 1. [Bootstrapmade](https://bootstrapmade.com/)
